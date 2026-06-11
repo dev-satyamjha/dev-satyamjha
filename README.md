@@ -30,6 +30,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c" alt="C" />
   <img src="https://img.shields.io/badge/Go-151515?style=for-the-badge&logo=go" alt="Go" />
   <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/Haskell-151515?style=for-the-badge&logo=haskell" alt="Haskell" />
   <img src="https://img.shields.io/badge/Assembly-151515?style=for-the-badge&logo=assembly" alt="Assembly" />
   <img src="https://img.shields.io/badge/SQL-151515?style=for-the-badge&logo=sql" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5" alt="HTML5" />
@@ -46,14 +47,15 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/Angular-151515?style=for-the-badge&logo=angular" alt="Angular" />
   <img src="https://img.shields.io/badge/TailwindCSS-151515?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-151515?style=for-the-badge&logo=vite" alt="Vite" />
 </p>
 
 ### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-151515?style=for-the-badge&logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-151515?style=for-the-badge&logo=nestjs" alt="NestJS" />
   <img src="https://img.shields.io/badge/Django-151515?style=for-the-badge&logo=django" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring%20Boot-151515?style=for-the-badge&logo=springboot" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Laravel-151515?style=for-the-badge&logo=laravel" alt="Laravel" />
@@ -74,6 +76,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/Google%20Cloud-151515?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-151515?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-151515?style=for-the-badge&logo=gitlabci" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux" alt="Linux" />
   <img src="https://img.shields.io/badge/Vercel-151515?style=for-the-badge&logo=vercel" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-151515?style=for-the-badge&logo=netlify" alt="Netlify" />
@@ -89,6 +92,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 
 ### AI & Data
 <p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-151515?style=for-the-badge&logo=pytorch" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Pandas-151515?style=for-the-badge&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-151515?style=for-the-badge&logo=numpy" alt="NumPy" />
@@ -102,6 +106,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 ### Design & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-151515?style=for-the-badge&logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-151515?style=for-the-badge&logo=adobephotoshop" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Krita-151515?style=for-the-badge&logo=krita" alt="Krita" />
   <img src="https://img.shields.io/badge/GIMP-151515?style=for-the-badge&logo=gimp" alt="GIMP" />
   <img src="https://img.shields.io/badge/Canva-151515?style=for-the-badge&logo=canva" alt="Canva" />
@@ -114,6 +119,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/Nintendo%20Switch-151515?style=for-the-badge&logo=nintendoswitch" alt="Nintendo Switch" />
   <img src="https://img.shields.io/badge/Nintendo%203DS-151515?style=for-the-badge&logo=nintendo3ds" alt="Nintendo 3DS" />
   <img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord" alt="Discord" />
+  <img src="https://img.shields.io/badge/Twitch-151515?style=for-the-badge&logo=twitch" alt="Twitch" />
   <img src="https://img.shields.io/badge/Epic%20Games-151515?style=for-the-badge&logo=epicgames" alt="Epic Games" />
   <img src="https://img.shields.io/badge/Itch.io-151515?style=for-the-badge&logo=itch.io" alt="Itch.io" />
 </p>
@@ -123,13 +129,15 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/Athletics-151515?style=for-the-badge&logo=athletics" alt="Athletics" />
   <img src="https://img.shields.io/badge/Boxing-151515?style=for-the-badge&logo=boxing" alt="Boxing" />
   <img src="https://img.shields.io/badge/Gaming-151515?style=for-the-badge&logo=gaming" alt="Gaming" />
+  <img src="https://img.shields.io/badge/Photography-151515?style=for-the-badge&logo=photography" alt="Photography" />
   <img src="https://img.shields.io/badge/Writing-151515?style=for-the-badge&logo=writing" alt="Writing" />
   <img src="https://img.shields.io/badge/Music-151515?style=for-the-badge&logo=music" alt="Music" />
+  <img src="https://img.shields.io/badge/Video%20Editing-151515?style=for-the-badge&logo=videoediting" alt="Video Editing" />
   <img src="https://img.shields.io/badge/Running-151515?style=for-the-badge&logo=running" alt="Running" />
   <img src="https://img.shields.io/badge/Yoga-151515?style=for-the-badge&logo=yoga" alt="Yoga" />
 </p>
 
-<h3 align="center">🌟 <i>Fun Fact: I can solve a Rubik's cube in under a minute!</i></h3>
+<h3 align="center">🌟 <i>Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
 
 ## 🌐 Socials
 <p align="center">
@@ -160,7 +168,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Commit" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="25%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="30%" />
 </p>
 
 <p align="center">
@@ -168,8 +176,8 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 </p>
 
 <p align="center">
-  <img src="https://api.iconify.design/mdi:eye.svg?color=yellow" height="28" alt="Views Icon" style="vertical-align: middle; margin-right: 4px;" />
-  <img src="https://komarev.com/ghpvc/?username=dev-satyamjha&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" width="6%" style="vertical-align: middle;" />
+  <img src="https://api.iconify.design/mdi:eye.svg?color=yellow" height="28" alt="Views Icon" align="center" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=dev-satyamjha&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
 </p>
 
 ## 🐍 Dev Snake
@@ -178,6 +186,6 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev-satyamjha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/dev-satyamjha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="59%" />
 </p>
 
