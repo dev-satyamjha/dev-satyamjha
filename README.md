@@ -1,21 +1,23 @@
-<div align="center">
-  <h1>Hi 👋, I'm Satyam</h1>
-  <h3>Full Stack Developer | Python Wizard | Open Source Enthusiast | Arch BTW Rice Lord</h3>
+<div>
+  <a href="https://github.com/dev-satyamjha"><img align="right" src="https://img.shields.io/badge/Joined-06%20NOV%202023-181717?style=for-the-badge&logo=github&logoColor=white" alt="Joined GitHub" /></a>
+  <h1 align="left">Hi 👋, I'm Satyam</h1>
+  <h3 align="center">Full Stack Developer | Python Wizard | Open Source Enthusiast | Arch BTW Rice Lord</h3>
 </div>
+
+<br clear="both"/>
 
 <div align="center">
 
 ### 🏆 Prominent Works
 
 <a href="https://github.com/dev-satyamjha/ISM">
-  <img src="https://dev-readme.netlify.app/.netlify/functions/seven-segment?user=dev-satyamjha&repos=ISM%2CCave_Of_Maya%2CAuraTrack%2CJob_focus%2CDevReadME" width="100%" alt="Projects Display Board" />
+  <img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=dev-satyamjha&repos=ISM%2CCave_Of_Maya%2CAuraTrack%2CJob_focus%2CDevReadME" alt="Projects Display Board" width="65%" />
 </a>
 
 </div>
 
 ## 🚀 About Me
-Computer Science undergraduate with experience architecting and shipping production software across Linux, Windows,
-web, and mobile platforms. Strong foundation in Full Stack Development, object-oriented programming, and cross-platform deployment. Open for Open-source collaborations. Probably doing ricing or building a product when you are reading this.
+Computer Science undergraduate with experience architecting and shipping production software across Linux, Windows, web, and mobile platforms. Strong foundation in Full Stack Development, object-oriented programming, and cross-platform deployment. Open for Open-source collaborations. Probably doing ricing or building a product when you are reading this.
 
 ## 💻 Core Tech Stack
 
@@ -44,16 +46,20 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 <p align="center">
   <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-151515?style=for-the-badge&logo=vue.js" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-151515?style=for-the-badge&logo=nuxt.js" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Angular-151515?style=for-the-badge&logo=angular" alt="Angular" />
   <img src="https://img.shields.io/badge/TailwindCSS-151515?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Vite-151515?style=for-the-badge&logo=vite" alt="Vite" />
+  <img src="https://img.shields.io/badge/Astro-151515?style=for-the-badge&logo=astro" alt="Astro" />
 </p>
 
 ### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-151515?style=for-the-badge&logo=express" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-151515?style=for-the-badge&logo=nestjs" alt="NestJS" />
   <img src="https://img.shields.io/badge/Django-151515?style=for-the-badge&logo=django" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi" alt="FastAPI" />
@@ -68,7 +74,6 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite" alt="SQLite" />
   <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Prisma-151515?style=for-the-badge&logo=prisma" alt="Prisma" />
 </p>
 
 ### DevOps & Cloud
@@ -133,6 +138,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://img.shields.io/badge/Writing-151515?style=for-the-badge&logo=writing" alt="Writing" />
   <img src="https://img.shields.io/badge/Music-151515?style=for-the-badge&logo=music" alt="Music" />
   <img src="https://img.shields.io/badge/Video%20Editing-151515?style=for-the-badge&logo=videoediting" alt="Video Editing" />
+  <img src="https://img.shields.io/badge/Cycling-151515?style=for-the-badge&logo=cycling" alt="Cycling" />
   <img src="https://img.shields.io/badge/Running-151515?style=for-the-badge&logo=running" alt="Running" />
   <img src="https://img.shields.io/badge/Yoga-151515?style=for-the-badge&logo=yoga" alt="Yoga" />
 </p>
@@ -142,6 +148,7 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 ## 🌐 Socials
 <p align="center">
   <a href="https://github.com/dev-satyamjha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="mailto:satyam_jha@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dev-satyamjha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://x.com/Ind_Satyam002"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/dev-satyamjha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;
@@ -163,12 +170,12 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/github-dark/0-profile-details.svg" alt="GitHub Profile Summary" width="100%" />
+  <img src="https://metrics.lecoq.io/dev-satyamjha?theme=bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Commit" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="30%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="25%" />
 </p>
 
 <p align="center">
@@ -185,7 +192,8 @@ web, and mobile platforms. Strong foundation in Full Stack Development, object-o
   <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/output/github-contribution-grid-snake.svg" alt="Dev Snake" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev-satyamjha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="59%" />
-</p>
+## ⚔️ Arena Stats
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dev-satyamjha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="49%" />
+</p>
