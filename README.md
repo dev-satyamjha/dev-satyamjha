@@ -8,7 +8,7 @@
 ### 🏆 Prominent Works
 
 <a href="https://github.com/dev-satyamjha/ISM">
-  <img src="https://YOUR_DEPLOY_URL/.netlify/functions/seven-segment?user=dev-satyamjha&repos=ISM%2CCave_Of_Maya%2CAuraTrack%2CJob_focus%2CDevReadME" width="100%" alt="Projects Display Board" />
+  <img src="https://dev-readme.netlify.app/.netlify/functions/seven-segment?user=dev-satyamjha&repos=ISM%2CCave_Of_Maya%2CAuraTrack%2CJob_focus%2CDevReadME" width="100%" alt="Projects Display Board" />
 </a>
 
 </div>
