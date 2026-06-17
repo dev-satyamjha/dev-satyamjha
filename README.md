@@ -1,6 +1,6 @@
 <div>
-  <a href="https://github.com/dev-satyamjha"><img align="right" src="https://img.shields.io/badge/Joined-06%20NOV%202023-181717?style=for-the-badge&logo=github&logoColor=white" alt="Joined GitHub" /></a>
-  <h1 align="left">Hi 👋, I'm Satyam</h1>
+  <a href="https://github.com/dev-satyamjha"><img align="right" src="https://img.shields.io/badge/Joined-6%20NOV%202023-181717?style=for-the-badge&logo=github&logoColor=white" alt="Joined GitHub" /></a>
+  <h1 align="left">Hi 👋, I'm Satyam Jha</h1>
   <h3 align="center">Full Stack Developer | Python Wizard | Open Source Enthusiast | Arch BTW Rice Lord</h3>
 </div>
 
@@ -8,18 +8,19 @@
 
 <div align="center">
 
-### 🏆 Prominent Works
+### Prominent Works
 
-<a href="https://github.com/dev-satyamjha/ISM">
-  <img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=dev-satyamjha&repos=ISM%2CCave_Of_Maya%2CAuraTrack%2CJob_focus%2CDevReadME" alt="Projects Display Board" width="65%" />
-</a>
+<img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=dev-satyamjha&repos=ISM%2CAuraTrack%2CThe_Cave_Of_Maya%2CJob_focus%2CDevReadME" alt="Projects Display Board" width="100%" />
+
 
 </div>
 
-## 🚀 About Me
+## About Me
 Computer Science undergraduate with experience architecting and shipping production software across Linux, Windows, web, and mobile platforms. Strong foundation in Full Stack Development, object-oriented programming, and cross-platform deployment. Open for Open-source collaborations. Probably doing ricing or building a product when you are reading this.
 
-## 💻 Core Tech Stack
+
+
+## Core Tech Stack
 
 ### Languages
 <p align="center">
@@ -39,7 +40,9 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bash-151515?style=for-the-badge&logo=bash" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-151515?style=for-the-badge&logo=powershell" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Lua-151515?style=for-the-badge&logo=lua" alt="Lua" />
   <img src="https://img.shields.io/badge/Ren'Py-151515?style=for-the-badge&logo=ren'py" alt="Ren'Py" />
+  <img src="https://img.shields.io/badge/MATLAB-151515?style=for-the-badge&logo=matlab" alt="MATLAB" />
 </p>
 
 ### Frontend
@@ -49,6 +52,7 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Vue.js-151515?style=for-the-badge&logo=vue.js" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-151515?style=for-the-badge&logo=nuxt.js" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Angular-151515?style=for-the-badge&logo=angular" alt="Angular" />
+  <img src="https://img.shields.io/badge/Svelte-151515?style=for-the-badge&logo=svelte" alt="Svelte" />
   <img src="https://img.shields.io/badge/TailwindCSS-151515?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Vite-151515?style=for-the-badge&logo=vite" alt="Vite" />
@@ -65,6 +69,8 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring%20Boot-151515?style=for-the-badge&logo=springboot" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Laravel-151515?style=for-the-badge&logo=laravel" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Bun-151515?style=for-the-badge&logo=bun" alt="Bun" />
+  <img src="https://img.shields.io/badge/Strapi-151515?style=for-the-badge&logo=strapi" alt="Strapi" />
 </p>
 
 ### Database
@@ -74,18 +80,26 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite" alt="SQLite" />
   <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Prisma-151515?style=for-the-badge&logo=prisma" alt="Prisma" />
 </p>
 
 ### DevOps & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-151515?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-151515?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-151515?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitLab%20CI-151515?style=for-the-badge&logo=gitlabci" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux" alt="Linux" />
   <img src="https://img.shields.io/badge/Vercel-151515?style=for-the-badge&logo=vercel" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-151515?style=for-the-badge&logo=netlify" alt="Netlify" />
   <img src="https://img.shields.io/badge/InfinityFree-151515?style=for-the-badge&logo=infinityfree" alt="InfinityFree" />
+  <img src="https://img.shields.io/badge/Podman-151515?style=for-the-badge&logo=podman" alt="Podman" />
+  <img src="https://img.shields.io/badge/Render-151515?style=for-the-badge&logo=render" alt="Render" />
+  <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-151515?style=for-the-badge&logo=debian" alt="Debian" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-151515?style=for-the-badge&logo=archlinux" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Fedora-151515?style=for-the-badge&logo=fedora" alt="Fedora" />
 </p>
 
 ### Mobile & Desktop
@@ -106,6 +120,8 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Hugging%20Face-151515?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Matplotlib-151515?style=for-the-badge&logo=matplotlib" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/OpenAI-151515?style=for-the-badge&logo=openai" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-151515?style=for-the-badge&logo=anthropic" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Anaconda-151515?style=for-the-badge&logo=anaconda" alt="Anaconda" />
 </p>
 
 ### Design & Tools
@@ -115,6 +131,42 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Krita-151515?style=for-the-badge&logo=krita" alt="Krita" />
   <img src="https://img.shields.io/badge/GIMP-151515?style=for-the-badge&logo=gimp" alt="GIMP" />
   <img src="https://img.shields.io/badge/Canva-151515?style=for-the-badge&logo=canva" alt="Canva" />
+</p>
+
+### Editors & OS
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-151515?style=for-the-badge&logo=vscode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity-151515?style=for-the-badge&logo=antigravity" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Vim-151515?style=for-the-badge&logo=vim" alt="Vim" />
+  <img src="https://img.shields.io/badge/Neovim-151515?style=for-the-badge&logo=neovim" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Nano-151515?style=for-the-badge&logo=nano" alt="Nano" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-151515?style=for-the-badge&logo=sublimetext" alt="Sublime Text" />
+  <img src="https://img.shields.io/badge/Zed-151515?style=for-the-badge&logo=zed" alt="Zed" />
+  <img src="https://img.shields.io/badge/Notepad%2B%2B-151515?style=for-the-badge&logo=notepad++" alt="Notepad++" />
+  <img src="https://img.shields.io/badge/PyCharm-151515?style=for-the-badge&logo=pycharm" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Windows-151515?style=for-the-badge&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-151515?style=for-the-badge&logo=debian" alt="Debian" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-151515?style=for-the-badge&logo=archlinux" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Fedora-151515?style=for-the-badge&logo=fedora" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-151515?style=for-the-badge&logo=kalilinux" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/NixOS-151515?style=for-the-badge&logo=nixos" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Hyprland-151515?style=for-the-badge&logo=hyprland" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/KDE%20Plasma-151515?style=for-the-badge&logo=kdeplasma" alt="KDE Plasma" />
+  <img src="https://img.shields.io/badge/GNOME-151515?style=for-the-badge&logo=gnome" alt="GNOME" />
+  <img src="https://img.shields.io/badge/WSL-151515?style=for-the-badge&logo=wsl" alt="WSL" />
+</p>
+
+### Productivity & Collab
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-151515?style=for-the-badge&logo=gitlab" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Notion-151515?style=for-the-badge&logo=notion" alt="Notion" />
+  <img src="https://img.shields.io/badge/Slack-151515?style=for-the-badge&logo=slack" alt="Slack" />
+  <img src="https://img.shields.io/badge/Obsidian-151515?style=for-the-badge&logo=obsidian" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Zoom-151515?style=for-the-badge&logo=zoom" alt="Zoom" />
+  <img src="https://img.shields.io/badge/Google%20Meet-151515?style=for-the-badge&logo=googlemeet" alt="Google Meet" />
 </p>
 
 ### Games & Platforms
@@ -141,11 +193,14 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Cycling-151515?style=for-the-badge&logo=cycling" alt="Cycling" />
   <img src="https://img.shields.io/badge/Running-151515?style=for-the-badge&logo=running" alt="Running" />
   <img src="https://img.shields.io/badge/Yoga-151515?style=for-the-badge&logo=yoga" alt="Yoga" />
+  <img src="https://img.shields.io/badge/Spotify-151515?style=for-the-badge&logo=spotify" alt="Spotify" />
+  <img src="https://img.shields.io/badge/YouTube-151515?style=for-the-badge&logo=youtube" alt="YouTube" />
+  <img src="https://img.shields.io/badge/Reddit-151515?style=for-the-badge&logo=reddit" alt="Reddit" />
 </p>
 
-<h3 align="center">🌟 <i>Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
+<h3 align="center"><i>🌟 Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
 
-## 🌐 Socials
+## Socials
 <p align="center">
   <a href="https://github.com/dev-satyamjha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="mailto:satyam_jha@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
@@ -160,26 +215,26 @@ Computer Science undergraduate with experience architecting and shipping product
 
 <div align="center">
 
-### 🏆 View Stats
+### View Stats
 
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-satyamjha&background=000000&border=30363d&stroke=30363d&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-satyamjha&show_icons=true&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="GitHub Stats" width="46%" />
+  <img src="https://streak-stats.demolab.com/?user=dev-satyamjha&background=0f172a&border=1e293b&stroke=1e293b&ring=94a3b8&fire=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=64748b&sideLabels=64748b&dates=64748b" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-satyamjha&show_icons=true&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="GitHub Stats" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/dev-satyamjha?theme=bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
+  <img src="https://metrics.lecoq.io/dev-satyamjha?theme=dark&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Commit" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="29%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="Top Languages by Commit" width="49%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="Top Languages by Repo" width="29%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&bg_color=000000&color=8b949e&line=ff0000&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&bg_color=0f172a&color=64748b&line=94a3b8&point=e2e8f0&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -187,12 +242,12 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://komarev.com/ghpvc/?username=dev-satyamjha&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
 </p>
 
-## 🐍 Dev Snake
+## SnakeME
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/output/github-contribution-grid-snake.svg?snake_color=%23ff0000&food_color=white" alt="Dev Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/output/github-contribution-grid-snake.svg" alt="SnakeME" width="100%" />
 </p>
 
-## ⚔️ Arena Stats
+## Arena Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dev-satyamjha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="49%" />
