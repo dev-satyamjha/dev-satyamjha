@@ -5,22 +5,32 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github&color_snake=%23f97316&color_dots=#ebedf0,#fed7aa,#fb923c,#ea580c,#f97316&color_background=%230d0800
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23f97316&color_dots=#161b22,#431407,#7c2d12,#c2410c,#f97316&color_background=%230d0800
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=%23f472b6&color_dots=%23ebedf0,%23fbcfe8,%23f9a8d4,%23ec4899,%23f472b6&color_background=%230d0010
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23f472b6&color_dots=%23161b22,%233b0764,%236b21a8,%23a21caf,%23f472b6&color_background=%230d0010
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push snake to output branch
+        run: |
+          sudo chown -R $USER:$USER dist
+          cd dist
+          git init
+          git checkout -b output
+          git add .
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update dev snake animation"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
