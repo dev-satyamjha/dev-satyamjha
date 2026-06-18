@@ -224,8 +224,8 @@ Computer Science undergraduate with experience architecting and shipping product
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-satyamjha&background=000000&border=30363d&stroke=30363d&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-satyamjha&show_icons=true&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="GitHub Stats" width="46%" />
+  <img src="https://streak-stats.demolab.com/?user=dev-satyamjha&background=0f172a&border=1e293b&stroke=1e293b&ring=94a3b8&fire=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=64748b&sideLabels=64748b&dates=64748b" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-satyamjha&show_icons=true&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="GitHub Stats" width="46%" />
 </p>
 
 <p align="center">
@@ -233,12 +233,12 @@ Computer Science undergraduate with experience architecting and shipping product
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Commit" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="29%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="Top Languages by Commit" width="49%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="Top Languages by Repo" width="29%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&bg_color=000000&color=8b949e&line=ff0000&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&bg_color=0f172a&color=64748b&line=94a3b8&point=e2e8f0&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
