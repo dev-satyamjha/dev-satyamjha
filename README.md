@@ -198,7 +198,7 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Reddit-151515?style=for-the-badge&logo=reddit" alt="Reddit" />
 </p>
 
-<h3 align="center"><i>🌟 Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
+<h3 align="center"><i> 🌟 Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
 
 ## Socials
 <p align="center">
