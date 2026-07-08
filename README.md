@@ -15,7 +15,7 @@
 
 </div>
 
-## Things i do apart from living ->
+## Things i do apart from living →
 Computer Science undergraduate with experience architecting and shipping production software across Linux, Windows, web, and mobile platforms. Strong foundation in Full Stack Development, object-oriented programming, and cross-platform deployment. Open for Open-source collaborations. Probably doing ricing or building a product when you are reading this.
 
 
