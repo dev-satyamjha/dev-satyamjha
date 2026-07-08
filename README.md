@@ -15,7 +15,7 @@
 
 </div>
 
-## About Me
+## Things i do apart from living ->
 Computer Science undergraduate with experience architecting and shipping production software across Linux, Windows, web, and mobile platforms. Strong foundation in Full Stack Development, object-oriented programming, and cross-platform deployment. Open for Open-source collaborations. Probably doing ricing or building a product when you are reading this.
 
 
@@ -86,6 +86,7 @@ Computer Science undergraduate with experience architecting and shipping product
 ### DevOps & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-151515?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-151515?style=for-the-badge&logo=azure" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-151515?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-151515?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
@@ -107,6 +108,8 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/React%20Native-151515?style=for-the-badge&logo=reactnative" alt="React Native" />
   <img src="https://img.shields.io/badge/Electron-151515?style=for-the-badge&logo=electron" alt="Electron" />
   <img src="https://img.shields.io/badge/Tauri-151515?style=for-the-badge&logo=tauri" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Qt-151515?style=for-the-badge&logo=qt" alt="Qt" />
+  <img src="https://img.shields.io/badge/GTK-151515?style=for-the-badge&logo=gtk" alt="GTK" />
 </p>
 
 ### AI & Data
@@ -155,6 +158,10 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/KDE%20Plasma-151515?style=for-the-badge&logo=kdeplasma" alt="KDE Plasma" />
   <img src="https://img.shields.io/badge/GNOME-151515?style=for-the-badge&logo=gnome" alt="GNOME" />
   <img src="https://img.shields.io/badge/WSL-151515?style=for-the-badge&logo=wsl" alt="WSL" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-151515?style=for-the-badge&logo=visualstudio" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Android%20Studio-151515?style=for-the-badge&logo=androidstudio" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Cursor-151515?style=for-the-badge&logo=cursor" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-151515?style=for-the-badge&logo=linuxmint" alt="Linux Mint" />
 </p>
 
 ### Productivity & Collab
@@ -167,6 +174,8 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Obsidian-151515?style=for-the-badge&logo=obsidian" alt="Obsidian" />
   <img src="https://img.shields.io/badge/Zoom-151515?style=for-the-badge&logo=zoom" alt="Zoom" />
   <img src="https://img.shields.io/badge/Google%20Meet-151515?style=for-the-badge&logo=googlemeet" alt="Google Meet" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-151515?style=for-the-badge&logo=microsoftteams" alt="Microsoft Teams" />
+  <img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord" alt="Discord" />
 </p>
 
 ### Games & Platforms
@@ -196,6 +205,8 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://img.shields.io/badge/Spotify-151515?style=for-the-badge&logo=spotify" alt="Spotify" />
   <img src="https://img.shields.io/badge/YouTube-151515?style=for-the-badge&logo=youtube" alt="YouTube" />
   <img src="https://img.shields.io/badge/Reddit-151515?style=for-the-badge&logo=reddit" alt="Reddit" />
+  <img src="https://img.shields.io/badge/Singing-151515?style=for-the-badge&logo=singing" alt="Singing" />
+  <img src="https://img.shields.io/badge/Acting-151515?style=for-the-badge&logo=acting" alt="Acting" />
 </p>
 
 <div align="center">
@@ -207,7 +218,7 @@ Computer Science undergraduate with experience architecting and shipping product
 ## Socials
 <p align="center">
   <a href="https://github.com/dev-satyamjha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="mailto:satyam_jha@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dev-satyamjha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://x.com/Ind_Satyam002"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/dev-satyamjha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;
@@ -215,6 +226,8 @@ Computer Science undergraduate with experience architecting and shipping product
   <a href="https://instagram.com/the_one_satyam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
   <a href="https://facebook.com/theonlyonesatyam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
   <a href="https://satyamjha.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/satyam_jha_12"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://www.producthunt.com/@satyamjha"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product Hunt" /></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -224,21 +237,26 @@ Computer Science undergraduate with experience architecting and shipping product
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-satyamjha&background=0f172a&border=1e293b&stroke=1e293b&ring=94a3b8&fire=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=64748b&sideLabels=64748b&dates=64748b" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-satyamjha&show_icons=true&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="GitHub Stats" width="46%" />
+  <img src="https://gr-streak.vercel.app/?user=dev-satyamjha&theme=gruvbox" alt="Streak Stats" width="49%" />
+  <img src="https://github-rs.vercel.app/api?username=dev-satyamjha&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="46%" />
+</p>
+
+## Contribution Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+
+  <br><br>
+  <img src="https://metrics.lecoq.io/dev-satyamjha?theme=gruvbox&template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&base.skip=false&plugin_isocalendar=false&plugin_calendar=false&v=4" alt="Classic User Account" width="80%" />
+
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/dev-satyamjha?theme=dark&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
+  <img src="https://github-rs.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&theme=gruvbox" alt="Top Languages by Commit" width="49%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-rs.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&theme=gruvbox" alt="Top Languages by Repo" width="29%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="Top Languages by Commit" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=0f172a&title_color=94a3b8&text_color=64748b&icon_color=94a3b8&border_color=1e293b" alt="Top Languages by Repo" width="29%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&bg_color=0f172a&color=64748b&line=94a3b8&point=e2e8f0&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&theme=gruvbox&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -246,9 +264,9 @@ Computer Science undergraduate with experience architecting and shipping product
   <img src="https://komarev.com/ghpvc/?username=dev-satyamjha&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
 </p>
 
-## SnakeME
+## Flaky Snaky
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/output/github-contribution-grid-snake.svg" alt="SnakeME" width="100%" />
+  <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/output/github-contribution-grid-snake.svg" alt="Flaky Snaky" width="100%" />
 </p>
 
 ## Arena Stats
