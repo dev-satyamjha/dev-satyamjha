@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github&color_snake=%236e40c9&color_dots=%23111113,%23d8b4fe,%23a855f7,%237c3aed,%236e40c9&color_background=%230d0a1a
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%236e40c9&color_dots=%23161b22,%232e1065,%234c1d95,%235b21b6,%236e40c9&color_background=%230d0a1a
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=%235023a9&color_dots=%23fafaff,%23d8b4fe,%23a855f7,%237c3aed,%236e40c9&color_background=%230d0a1a
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%235023a9&color_dots=%23161b22,%232e1065,%234c1d95,%235b21b6,%236e40c9&color_background=%230d0a1a
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push snake to output branch
